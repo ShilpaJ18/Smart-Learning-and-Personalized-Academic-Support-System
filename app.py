@@ -13,7 +13,7 @@ NOTES_DIR    = "generated_notes"
 os.makedirs(NOTES_DIR, exist_ok=True)
 
 def get_model():
-    API_KEY = "AIzaSyDDp_B85TJmD1g44MPGc2weV8Cmh9zNjmI"  # 👈 paste your Gemini API key here
+    API_KEY = "your gemnini api key"  # 👈 paste your Gemini API key here
     genai.configure(api_key=API_KEY)
     return genai.GenerativeModel("gemini-2.5-flash")
 
