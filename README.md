@@ -1,6 +1,6 @@
-# SmartNotes AI
+# Smart Learning and Personalized Academic Support System
 
-> AI-powered study app — Generate notes, quiz yourself, re-quiz weak spots, flashcards, and track confidence per topic. Powered by Gemini. No OpenAI key needed.
+> study assistent — Generate notes, quiz yourself, re-quiz weak spots, flashcards,send email regarding less score and track confidence per topic. Powered by Gemini
 
 ---
 
