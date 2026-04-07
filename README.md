@@ -6,7 +6,7 @@
 
 ## Features
 
-| Tab | What it does |
+| Features | What it does |
 |-----|-------------|
 | 📝 Notes Generator | Enter subject + topics (or upload a PDF syllabus to auto-extract topics), set depth, generate editable notes, download PDF |
 | 🧠 Auto Quiz (MCQ) | Builds 10 multiple-choice questions from your notes, grades instantly, flags weak topics |
@@ -23,9 +23,9 @@
 Go to https://aistudio.google.com/app/apikey and create a free key.
 
 ### 2. Add your key
-Open `.env` and replace the placeholder:
+Open `.env` and replace the placeholder: or can be directly given in app.py in (def get_model())
 ```
-GEMINI_API_KEY=your_actual_key_here
+API_KEY=your_actual_key_here
 ```
 
 ### 3. Install dependencies
