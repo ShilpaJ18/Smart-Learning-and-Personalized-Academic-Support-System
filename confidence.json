@@ -1,0 +1,208 @@
+{
+  "Tuples": [
+    0.0
+  ],
+  "Lists": [
+    0.0
+  ],
+  "Variables": [
+    0.0
+  ],
+  "Necessary Conditions for Deadlock": [
+    0.0,
+    100.0
+  ],
+  "Deadlock Definition": [
+    0.0
+  ],
+  "Deadlock Prevention": [
+    0.0
+  ],
+  "Resource Allocation Graph Deadlock Detection": [
+    0.0
+  ],
+  "Methods for Handling Deadlocks": [
+    0.0
+  ],
+  "Resource Allocation Graph Components": [
+    0.0
+  ],
+  "Deadlocks": [
+    75.0,
+    83,
+    83,
+    83
+  ],
+  "Process Management": [
+    33.3,
+    83,
+    83,
+    83,
+    90,
+    0,
+    80,
+    25,
+    0,
+    0,
+    0
+  ],
+  "Joins": [
+    100.0
+  ],
+  "Triggers": [
+    100.0,
+    80,
+    80,
+    80
+  ],
+  "Deadlock Handling Strategies, Deadlock Ignorance": [
+    0.0
+  ],
+  "Deadlocks, Example Scenario": [
+    100.0
+  ],
+  "Deadlock Handling Strategies, Deadlock Detection and Recovery": [
+    0.0
+  ],
+  "Necessary Conditions for Deadlock, Mutual Exclusion": [
+    0.0
+  ],
+  "Deadlocks, Definition": [
+    0.0
+  ],
+  "Deadlock Handling Strategies, Deadlock Prevention": [
+    0.0
+  ],
+  "Deadlock Handling Strategies, Deadlock Avoidance": [
+    0.0
+  ],
+  "Deadlock Prevention, Hold and Wait, Deadlock Handling Strategies": [
+    100
+  ],
+  "Deadlock Avoidance, Deadlock Prevention, Deadlock Handling Strategies": [
+    100
+  ],
+  "Deadlock Detection and Recovery, Deadlock Handling Strategies": [
+    100
+  ],
+  "Circular Wait, Deadlock Prevention, Deadlock Handling Strategies": [
+    100
+  ],
+  "Deadlocks, Definition, Necessary Conditions for Deadlock, Mutual Exclusion": [
+    100
+  ],
+  "Deadlock Ignorance, Deadlock Handling Strategies": [
+    100
+  ],
+  "Deadlocks Definition": [
+    95
+  ],
+  "Deadlock Handling Strategies": [
+    0,
+    95
+  ],
+  "Stack": [
+    80,
+    65,
+    95
+  ],
+  "Python for Machine Learning": [
+    100.0
+  ],
+  "Reinforcement Learning": [
+    100.0
+  ],
+  "Machine Learning Applications": [
+    100.0,
+    0.0
+  ],
+  "Model Building": [
+    100.0
+  ],
+  "Supervised Learning": [
+    100.0,
+    80
+  ],
+  "Machine Learning Concepts": [
+    100.0
+  ],
+  "Unsupervised Learning": [
+    100.0
+  ],
+  "Machine Learning": [
+    80,
+    10,
+    70
+  ],
+  "Types of Machine Learning / ML Tasks": [
+    100.0
+  ],
+  "Building ML Models with Python": [
+    100.0
+  ],
+  "ML Applications": [
+    100.0
+  ],
+  "ML Basics": [
+    100.0,
+    95,
+    80,
+    95,
+    95
+  ],
+  "Types of Machine Learning": [
+    100.0,
+    25.0,
+    10
+  ],
+  "Mesh Topology": [
+    100.0
+  ],
+  "Logical vs. Physical Topology": [
+    0.0,
+    100
+  ],
+  "Ring Topology": [
+    0.0,
+    100,
+    100
+  ],
+  "Star Topology": [
+    100.0
+  ],
+  "Bus Topology": [
+    50.0,
+    100
+  ],
+  "Network Topology Definition": [
+    0.0,
+    100
+  ],
+  "Tree Topology": [
+    0.0,
+    100
+  ],
+  "Networking": [
+    95,
+    80
+  ],
+  "Machine Learning Fundamentals": [
+    50.0
+  ],
+  "Machine Learning Model Building": [
+    0.0
+  ],
+  "Machine Learning Fundamentals, Machine Learning Model Building": [
+    50,
+    50,
+    50
+  ],
+  "Types of Machine Learning, Machine Learning Applications": [
+    50,
+    50,
+    50
+  ],
+  "ML Fundamentals": [
+    80
+  ]
+}
